@@ -321,6 +321,10 @@ From Covids ..CovidDeaths
 Group by Location, Population, date
 order by PercentPopulationInfected desc
 
+--For visulation through tablue
+
+-- ** https://public.tableau.com/app/profile/rimon.datta/viz/CovidAnalysis_16777449249200/Dashboard1?publish=yes ** --
+
 
 
 
